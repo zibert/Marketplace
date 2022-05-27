@@ -36,7 +36,7 @@ npx hardhat setMinter1155 --network rinkeby<br />
 
 npx hardhat addZcoins --network rinkeby --to-account 0x624c31357a67344f6d0278a6ef1F839E2136D735 --amount 100.0<br />
 
-## MInt example
+## Mint example
 
 npx hardhat mint721 --network rinkeby<br />
 
