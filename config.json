@@ -1,0 +1,8 @@
+{
+    "zcoinAddress" : "0x5209023930B9C6A06Ce65707DFaCba146c60b8d5",
+    "erc721Address" : "0xD9Ce0d418a051b16124c747A39d813e1275842B7",
+    "erc1155Address" : "0x83B7fBEB91a7db7D90E75A8dB27D2ec6B51E19cB",
+    "auctionAddress" : "0xd9aFB0cE2b6f82DE94f847c9F2e88a09d2D25ACE",
+    "BASE_TOKEN_URI_721" : "https://bafybeiaeske5mjynzjrivpebqr2yv6mqhsxkbx7skjcpz25clvidqbdzd4.ipfs.nftstorage.link/metadata/",
+    "BASE_TOKEN_URI_1155" : "https://bafybeiaeske5mjynzjrivpebqr2yv6mqhsxkbx7skjcpz25clvidqbdzd4.ipfs.nftstorage.link/metadata/{id}"
+}

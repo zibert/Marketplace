@@ -1,0 +1,12 @@
+{
+    "description" : "Super NFT tokens",
+    "external_url" : "https://example.com/?token_id=4",
+    "image" : "https://bafybeih3aps2chvr6yndxgdaxvnd6dvil6dmsqryechajgqux7yvfm2qf4.ipfs.nftstorage.link/images/nft4.png",
+    "name" : "token #4",
+    "attributes" : [
+        {
+            "trait_type": "Level", 
+            "value": 4
+        }
+     ]
+ }
